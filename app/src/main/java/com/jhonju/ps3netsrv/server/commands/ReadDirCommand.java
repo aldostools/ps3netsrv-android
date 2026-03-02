@@ -25,7 +25,7 @@ import java.util.Set;
  * 4. Formats results as binary protocol response
  * 5. Enforces maximum entry limits for protocol compliance
  * 
- * @author PS3NetSrv Android Contributors
+ * @author JCorrêa
  */
 public class ReadDirCommand extends AbstractCommand {
   private static final long MAX_ENTRIES = 4096;
