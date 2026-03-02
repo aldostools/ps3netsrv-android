@@ -19,7 +19,7 @@ import java.util.Set;
  * - Creating a new ContextHandler for each accepted connection
  * - Properly shutting down the server socket
  * 
- * @author PS3NetSrv Android Contributors
+ * @author JCorrêa
  */
 public class PS3NetSrvTask implements Runnable {
   private final Thread.UncaughtExceptionHandler exceptionHandler;
